@@ -32,3 +32,7 @@ se puede colocar en colab de google no neceita instalacion.
 ## Contribuciones
 
 Indica cómo los colaboradores pueden contribuir al proyecto. Puede incluir instrucciones sobre cómo realizar un fork, abrir solicitudes de extracción, reglas de estilo de código, etc.
+
+## Licencia
+
+Indica bajo qué licencia se distribuye tu proyecto. Por ejemplo: "Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles."
