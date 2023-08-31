@@ -26,7 +26,8 @@ se puede colocar en colab de google no neceita instalacion.
 
 ## Uso
 
-Explica cómo usar tu proyecto. Proporciona ejemplos de código, capturas de pantalla u otros recursos que ayuden a los usuarios a entender cómo funciona.
+![Imagen de WhatsApp 2023-08-30 a las 22 15 43](https://github.com/AldoVelsa/Simulacion/assets/122690607/5f612d19-f1c8-4251-945e-82b275cbc32d)
+
 
 ## Contribuciones
 
