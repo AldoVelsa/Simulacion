@@ -35,4 +35,4 @@ Indica cómo los colaboradores pueden contribuir al proyecto. Puede incluir inst
 
 ## Licencia
 
-Indica bajo qué licencia se distribuye tu proyecto. Por ejemplo: "Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles."
+ "Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles."
