@@ -1,8 +1,7 @@
 # Simulacion
 Tarea materia Simulacion
-# Título del Proyecto
-
-Breve descripción o resumen del proyecto.
+#Lanzamiento de dados 
+Este es un codigo que simula el lanzamiento de dos dados
 
 ## Tabla de Contenidos
 
@@ -15,15 +14,15 @@ Breve descripción o resumen del proyecto.
 
 ## Introducción
 
-En esta sección, puedes proporcionar una descripción más detallada de tu proyecto, su propósito y su importancia.
+Programa que simula el lanzamiento de un dado n número de veces
+El programa es en el lenguaje python, este debe ser capaz de recibir el número de veces que se lanzara el dado, dando como resultado el número de caras que salió en cada lanzamiento del dado.
 
 ## Características
 
-Enumera las principales características o funcionalidades de tu proyecto.
-
+se lanza los dados,N numeros de veces y se continua lanzando hasta que ambos dados den 6.
 ## Instalación
 
-Proporciona instrucciones claras y concisas sobre cómo instalar y configurar tu proyecto. Esto podría incluir comandos de terminal, dependencias, etc.
+se puede colocar en colab de google no neceita instalacion.
 
 ## Uso
 
